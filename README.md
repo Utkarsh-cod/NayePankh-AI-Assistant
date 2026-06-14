@@ -151,7 +151,7 @@ Open `index.html` using Live Server in VS Code.
 
 ### Volunteer Match
 
-![Volunteer Match](screenshots/Volunteer_Matching.png)
+![Volunteer Match](screenshots\Volunteer_Match.png)
 
 ### Career Mentor
 
