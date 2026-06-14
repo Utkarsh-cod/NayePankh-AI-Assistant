@@ -78,6 +78,7 @@ NayePankh-AI/
 ├── index.html
 ├── style.css
 ├── script.js
+├── .gitignore
 │
 ├── server/
 │   ├── server.js
